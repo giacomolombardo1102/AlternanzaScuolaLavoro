@@ -1,0 +1,15 @@
+<IDOCTYPE HTML>
+<html>
+  <head>
+    <title>Primo esempio</title>
+  </head>
+
+
+<body bgcolor="#309QAA">
+  <h1>Titolo del capitolo</h1>
+  <h2>Titolo della sezione</h2>
+  <p>Testo del paragrafo...</p>
+   <font color=#FFCC00" size="+1">Testo giallo</font> con il carattere
+   <font face="Arial" colors="#FF0000" size="+2">Arial 
+ </body>
+</html>
